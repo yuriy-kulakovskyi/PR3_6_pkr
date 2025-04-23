@@ -1,0 +1,2 @@
+SearchBySurnameTest.FindsExistingSubscriber 1 0.00477896
+---

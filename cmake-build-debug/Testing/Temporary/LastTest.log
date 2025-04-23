@@ -1,0 +1,30 @@
+Start testing: Apr 23 08:35 EEST
+----------------------------------------------------------
+1/1 Testing: SearchBySurnameTest.FindsExistingSubscriber
+1/1 Test: SearchBySurnameTest.FindsExistingSubscriber
+Command: "/Users/yura_kulakovskyi/Documents/C++/TeamWork/PR3/PR3_6/cmake-build-debug/PR3_6_tests" "--gtest_filter=SearchBySurnameTest.FindsExistingSubscriber" "--gtest_also_run_disabled_tests"
+Directory: /Users/yura_kulakovskyi/Documents/C++/TeamWork/PR3/PR3_6/cmake-build-debug
+"SearchBySurnameTest.FindsExistingSubscriber" start time: Apr 23 08:35 EEST
+Output:
+----------------------------------------------------------
+Running main() from /Users/yura_kulakovskyi/Documents/C++/TeamWork/PR3/PR3_6/lib/googletest/googletest/src/gtest_main.cc
+Note: Google Test filter = SearchBySurnameTest.FindsExistingSubscriber
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from SearchBySurnameTest
+[ RUN      ] SearchBySurnameTest.FindsExistingSubscriber
+[       OK ] SearchBySurnameTest.FindsExistingSubscriber (0 ms)
+[----------] 1 test from SearchBySurnameTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"SearchBySurnameTest.FindsExistingSubscriber" end time: Apr 23 08:35 EEST
+"SearchBySurnameTest.FindsExistingSubscriber" time elapsed: 00:00:00
+----------------------------------------------------------
+
+End testing: Apr 23 08:35 EEST
